@@ -7,10 +7,12 @@ Hi, I am Utkarsh Sawarn, a first-year B.tech student of computer science and eng
 This repository contains my Digital Literacy project in which i have done 5 tasks for the practical knowledge, where I explored how to use technology effectively, safely, as well as professionally.
 
 Project Objective
+
 The goal of this project is to develop essential digital skills required for students in today's world.
 It focuses on understanding digital tools, building an online presence, improving communication, staying safe on the internet and contacting right authority if there is any problem.
 
 What This Project Includes
+
 Task 1 – Visual Awareness Content
 Created a digital literacy awareness presentation using Canva.
 It explains key concepts like understanding & using digital technology confidently, essential tools for learning and how to stay safe online.
