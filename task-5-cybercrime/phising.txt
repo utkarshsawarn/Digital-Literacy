@@ -1,0 +1,16 @@
+Victim Profile: a bachelors student studying in du delhi.
+
+
+Phishing is one of the most common forms of cybercrime, and college students are increasingly the target. Here is how a typical phishing attack works.
+
+1. The Incident (The Hook)
+A student receives an email that appears to be from a well-known company — say, a technology firm or an educational platform. The email congratulates them on being shortlisted for a paid internship or scholarship. It looks professional: the logo is there, the language is formal, and the email address looks almost legitimate at first glance.
+
+2. The Execution (The Trick)
+
+The email contains a link asking the student to fill in a form to confirm their selection. The form asks for name, college email, phone number, and — crucially — email login credentials for verification purposes. The student, excited and under time pressure because the email mentions a 12-hour deadline, fills in the form and submits it.
+
+3. The Aftermath (The Siphoning)
+Within hours, the student starts receiving password reset alerts and notices of suspicious login activity on their accounts. Their email has been compromised. If they used the same password on other accounts — which most people do — those are now vulnerable too.
+The consequences can include loss of access to important academic accounts, personal data being sold or misused, and in some cases, financial fraud if banking apps are connected to the compromised email. The psychological impact — anxiety, loss of trust in online platforms — often lasts well beyond the incident itself.
+What makes phishing so effective is not that people are careless — it is that the attacks are specifically designed to exploit the emotions of urgency and excitement. Legitimate companies never ask for login credentials over email. That is the single clearest warning sign.
